@@ -2,6 +2,6 @@
 
 int main() {
 	for (int i = 0; i < 10; i++)
-		std::cout << s << ". Hello World!\n";
-	return 0
+		std::cout << i << ". Hello World!\n";
+	return 0;
 }
